@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeep22222/node-learnign-node.git"
+  },
+  "author": "pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeep22222/node-learnign-node/issues"
+  },
+  "homepage": "https://github.com/Pradeep22222/node-learnign-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
